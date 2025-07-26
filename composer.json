@@ -1,0 +1,16 @@
+{
+    "name": "hubleto/terminal",
+    "license": "GPL-3.0-only",
+    "description": "Support package for CLI, console and terminal in PHP",
+    "homepage": "https://www.hubleto.com",
+    "support": {
+        "issues": "https://github.com/hubleto/main/issues",
+        "source": "https://github.com/hubleto/main"
+    },
+    "keywords": ["hubleto", "crm", "erp", "application", "hub"],
+    "autoload": {
+        "psr-4": {
+            "Hubleto\\": "src"
+        }
+    }
+}
