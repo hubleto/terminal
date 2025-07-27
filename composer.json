@@ -1,6 +1,6 @@
 {
     "name": "hubleto/terminal",
-    "license": "GPL-3.0-only",
+    "license": "MIT",
     "description": "Support package for CLI, console and terminal in PHP",
     "homepage": "https://www.hubleto.com",
     "support": {
@@ -12,5 +12,6 @@
         "psr-4": {
             "Hubleto\\": "src"
         }
-    }
+    },
+    "minimum-stability": "dev"
 }
