@@ -4,8 +4,8 @@
     "description": "Support package for CLI, console and terminal in PHP",
     "homepage": "https://www.hubleto.com",
     "support": {
-        "issues": "https://github.com/hubleto/main/issues",
-        "source": "https://github.com/hubleto/main"
+        "issues": "https://github.com/hubleto/terminal/issues",
+        "source": "https://github.com/hubleto/terminal"
     },
     "keywords": ["hubleto", "crm", "erp", "application", "hub"],
     "autoload": {
