@@ -2,7 +2,7 @@
     "name": "hubleto/terminal",
     "license": "MIT",
     "description": "Support package for CLI, console and terminal in PHP",
-    "homepage": "https://www.hubleto.com",
+    "homepage": "https://www.hubleto.eu",
     "support": {
         "issues": "https://github.com/hubleto/terminal/issues",
         "source": "https://github.com/hubleto/terminal"
